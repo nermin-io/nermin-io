@@ -2,11 +2,11 @@
 
 [![](https://img.shields.io/badge/-Nermin%20Sehic-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nsehic)](https://www.linkedin.com/in/nsehic/)
 
-Hi, I’m Nermin. I'm a software developer building cool things on the web.
+As a software developer with a love for all things code, I enjoy working with languages like Go, Typescript, Java, Scala, and React more than I enjoy my morning coffee (okay, maybe that's a stretch). 
 
-I’m an Oracle Certified Professional Java programmer, but over time I have amassed experience and a passion for a multitude of languages such as Java, Scala, Typescript, Node.js and more. 
+Currently, I'm putting my skills to use at Rendr, where I'm building internal tools to make people's jobs a little less painful (because who doesn't love a good tool that saves time and frustration?). 
 
-I’m currently building Zendesk Support Apps and other internal tools at Rendr, a fulfilment and delivery technology company in Richmond. On the side, I like to work on personal projects, tinker with new technologies and languages, and write on my personal blog.
+When I'm not coding, you can find me trying to perfect my latte art or attempting to keep my plants alive (both tasks that require a certain level of patience and dedication, much like debugging code).
 
 
 | Java 8 Oracle Certified Profressional | Certified Scrum Product Owner |
