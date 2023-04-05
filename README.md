@@ -8,7 +8,6 @@ Currently, I'm putting my skills to use at Rendr, where I'm building internal to
 
 When I'm not coding, you can find me trying to perfect my latte art or attempting to keep my plants alive (both tasks that require a certain level of patience and dedication, much like debugging code).
 
-
 | Java 8 Oracle Certified Profressional | Certified Scrum Product Owner |
 | -------------- | ----------- | 
-| [<img src="https://user-images.githubusercontent.com/91134194/197762952-f55e6854-095a-4af6-a1cf-b620e9af2d4a.jpg" alt="ocp 8" width="300"/>](https://prismic-io.s3.amazonaws.com/nerminsehic-blog/80a7cb42-71ca-4b71-9acf-02c076c09583_OCP_Certificate.pdf) | [<img src="https://user-images.githubusercontent.com/91134194/197764274-a35f9ffc-53fb-437c-bcad-a8cbba0650aa.png" alt="scrum" width="300"/>](https://www.scrumalliance.org/community/profile/nsehic) |
+| [<img src="https://user-images.githubusercontent.com/91134194/197762952-f55e6854-095a-4af6-a1cf-b620e9af2d4a.jpg" alt="ocp 8" width="300"/>](https://nermin-dev-blog.cdn.prismic.io/nermin-dev-blog/0af32573-47d8-4869-a7a9-f7c5736196f1_OCP_Certificate.pdf) | [<img src="https://user-images.githubusercontent.com/91134194/197764274-a35f9ffc-53fb-437c-bcad-a8cbba0650aa.png" alt="scrum" width="300"/>](https://www.scrumalliance.org/community/profile/nsehic) |
